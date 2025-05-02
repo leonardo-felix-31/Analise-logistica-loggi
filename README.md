@@ -1,6 +1,6 @@
 # 📦 Análise de Dados Logísticos - Loggi
 
-![Loggi](https://github.com/leonardo-felix-31/Analise-logistica-loggi/blob/master/Captura%20de%20tela%202025-05-02%20194331.png)
+<img src="https://github.com/leonardo-felix-31/Analise-logistica-loggi/blob/master/Captura%20de%20tela%202025-05-02%20194331.png" alt="Loggi" width="200"/>
 
 Este projeto tem como objetivo analisar dados logísticos da empresa **Loggi**, com foco em compreender padrões de entrega, desempenho regional, tempo de rota e eficiência operacional.
 
