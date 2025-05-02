@@ -40,3 +40,25 @@ Foram gerados mapas interativos e estáticos com o uso do **GeoPandas**, permiti
    git clone https://github.com/seu-usuario/loggi-analise-logistica.git
 
 
+
+## ✅ Resultados
+
+As análises permitiram identificar padrões logísticos importantes, incluindo:
+
+- Estados com maior volume de entregas.
+- Tempos médios por região.
+- Potenciais oportunidades de otimização de rotas.
+
+## 📝 Conclusão
+
+Este projeto reforça como a análise de dados pode transformar operações logísticas, oferecendo insights valiosos para empresas como a Loggi atuarem com mais eficiência e precisão.
+
+## 📬 Contato
+
+Para dúvidas ou sugestões:
+
+- **Leonardo Felix**
+- Email: leonardofx2003@gmail.com
+
+
+
