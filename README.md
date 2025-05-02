@@ -32,5 +32,11 @@ Este projeto tem como objetivo analisar dados logísticos da empresa **Loggi**, 
 
 Foram gerados mapas interativos e estáticos com o uso do **GeoPandas**, permitindo observar com clareza as áreas com maior concentração de entregas e rotas logísticas utilizadas pela Loggi.
 
-## 📁 Estrutura do Projeto
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/loggi-analise-logistica.git
+
 
